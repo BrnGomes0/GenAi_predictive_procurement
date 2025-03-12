@@ -20,9 +20,7 @@ class Llama3:
     def create_prompt_message(self, table: pl.DataFrame) -> str:
         table_str = table.write_csv(separator="|") 
         prompt = f"""
-        Reescreva a seguinte descrição técnica para torná-la mais clara e legível. A descrição contém um código, um número de nota fiscal, uma linha de produção e um nome de item. Transforme isso em uma frase descritiva e bem estruturada. Exemplo:
-        'REX2087230NF458261LINHA3VANTILADOR' → 'Ventilador na linha 3, código REX2087230, NF 458261.'
-
+        Reescreva a seguinte descrição técnica para torná-la mais clara e legível. A descricao precisa ter o nome do material ou do servico. Transforme isso em uma frase descritiva e bem estruturada em portugues.
         Agora, reformule as seguintes descrições:
         ```
         {table_str}
