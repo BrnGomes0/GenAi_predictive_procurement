@@ -1,8 +1,8 @@
 # Using GenAI in Predictive Procuemente - Study Case
 
-## Testing some models (LLaMA3, LLaMA2 and Mistral)
+## Testing some models (LLaMA3, LLaMA2 and Mistral) 💻
 
-### Prompt template
+### Prompt template 📃
 ~~~py
 f"""
 Reescreva a seguinte descrição técnica para torná-la mais clara e legível. A descrição precisa conter o nome do material ou do serviço. Transforme-a em uma frase descritiva bem estruturada em português.
@@ -102,7 +102,7 @@ Observação: O termo "MFT3" parece ser uma identificação de código para o ma
 ~~~
 
 
-## Getting Started
+## Getting Started 📍
 
 #### First Step - Clone the repo:
 ~~~git
