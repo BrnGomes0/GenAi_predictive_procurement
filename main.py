@@ -1,5 +1,5 @@
-from file import Files
-from llama3 import Llama3
+from app.file import Files
+from app.ollama import Llama3
 
 files_instance = Files()
 model_llama3 = Llama3()
