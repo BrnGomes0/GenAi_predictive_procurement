@@ -100,3 +100,33 @@ MFT3_1115 - 71880054VY_13 (3POS/4PC)| Passarela Usinagem e Ferramentaria
 Kit Aramida Tec 811 - Lexus NX 300 TSV| Carbon Blindados Ltda
 Observação: O termo "MFT3" parece ser uma identificação de código para o material ou serviço, enquanto que"SP" aparece como um indicativo de que a descrição se refere a um conjunto. Além disso, as descriçõescontêm referências às indústrias da mecânica de precisão e ferreiro (ou ferramenta), bem como o nome dasempresas relacionadas com estas indústrias ou os nomes dos produtos fabricados por elas.
 ~~~
+
+
+## Getting Started
+
+#### First Step - Clone the repo:
+~~~git
+git clone --branch main https://github.com/BrnGomes0/GenAi_predictive_procurement.git
+~~~
+
+#### Second Step - Create a container based in docker-compose.yml:
+~~~docker
+docker compose up
+~~~
+
+#### Third Step - Enter the created container
+~~~docker
+docker exec -it <idContainer> bash
+~~~
+
+#### Fourth Step - Install the imagens of models inside the container
+~~~docker
+ollama pull llama2
+ollama pull llama3
+ollama pull mistral
+~~~
+
+#### Fifth Step - Run the command python for start the project
+~~~py
+python .\main.py
+~~~
