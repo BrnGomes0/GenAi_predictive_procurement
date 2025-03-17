@@ -1,6 +1,6 @@
 # Using GenAI in Predictive Procuemente - Study Case
 
-## Testing some models (LLaMA3, LLaMA2, Mistral)
+## Testing some models (LLaMA3, LLaMA2 and Mistral)
 
 ### Prompt template
 ~~~py
