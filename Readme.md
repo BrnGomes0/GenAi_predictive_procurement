@@ -20,28 +20,30 @@ Return:
 ~~~md
 Aquilo que você está procurando é uma lista de materiais e serviços com descrições técnicas. Aqui estão as descrições reformuladas para torná-las mais claras e legíveis:
 
-MFT3-1852 -992/21-71880055JD-15-06 (2PC) - Conjunto de Fixação de Tornos MFT3 com 2 peças.
-SP - CONJUNTO MFT5 0280-20 - Conjunto de Fixação de Tornos MFT5 com 20 peças.
-MFT3-4529 - LM2024-Gr31 - Material CA 140/1 para Fixação de Tornos MFT, grade 31.
-SP - MFT3-3999 - 08040GN2645 (5pos/8pc) - Conjunto de Fixação de Tornos MFT com 8 peças e 5 posições.
-MFT3-272 -718800546L-17 - 2pos/3PC - Conjunto de Fixação de Tornos MFT com 3 peças e 2 posições.
-MFT3-4003 - 08A4N3126 gr.12(15pos/18pcs) - Material CA 140/1 para Fixação de Tornos MFT, grade 12.
-MP MUELLER NF 460297 MO - Moagem de aço para peças específicas.
-MFT3-1114:71880057MB 13 (5 POS/ 5PC) - Conjunto de Fixação de Tornos MFT com 5 peças e 5 posições.
-MFT3-1116: 7188.005.72X-9 (3 POS/ 4PC) - Conjunto de Fixação de Tornos MFT com 4 peças e 3 posições.
-NIPO-TEC - 47.001.00.730 - BROCA - Broca para uso geral.
-Material CA 140/1 - MFT - Material para fixação de tornos MFT.
-SP - MFT5-0006-21 - Conjunto de Fixação de Tornos MFT com 21 peças.
-MFT3-1983 - 718800952E-20 (1pos/3pc) - Conjunto de Fixação de Tornos MFT com 3 peças e 1 posição.
-MFT3-1727 - 718800573C Gr65 15/28 - Material CA 140/1 para fixação de tornos MFT, grade 65.
-SP - CONJUNTO MFT5 0155-20 - Conjunto de Fixação de Tornos MFT com 20 peças.
-MFT3-1182 - 71880055JD-11 - 3POS/3P - Conjunto de Fixação de Tornos MFT com 3 peças e 3 posições.
-MFT3-4528 - 71880062FR1 Gr11 02/03 - Material CA 140/1 para Fixação de Tornos MFT, grade 11.
-MFT3-1115 - 718800884W-41 - Conjunto de Fixação de Tornos MFT com 41 peças e 2 posições.
-MFT3-1117 - 71880055JD-08 - Conjunto de Fixação de Tornos MFT com 4 peças e 3 posições.
-MP MUELLER NF 460297 MO - Moagem de aço para peças específicas.
-NIPO-TEC - BROCA NTF495-854 - Broca para uso geral.
-KIT ARMATURA DELTA 881 - LEXUS NX 300 TSV - Kit para reparo e manutenção de veículos Lexus.
+Material ou serviço | Descrição
+
+MFT3-1852 -992/21-71880055JD-15-06 (2PC) | Conjunto de Fixação de Tornos MFT3 com 2 peças.
+SP - CONJUNTO MFT5 0280-20 | Conjunto de Fixação de Tornos MFT5 com 20 peças.
+MFT3-4529 - LM2024-Gr31 | Material CA 140/1 para Fixação de Tornos MFT, grade 31.
+SP - MFT3-3999 - 08040GN2645 (5pos/8pc) | Conjunto de Fixação de Tornos MFT com 8 peças e 5 posições.
+MFT3-272 -718800546L-17 - 2pos/3PC | Conjunto de Fixação de Tornos MFT com 3 peças e 2 posições.
+MFT3-4003 - 08A4N3126 gr.12(15pos/18pcs) | Material CA 140/1 para Fixação de Tornos MFT, grade 12.
+MP MUELLER NF 460297 MO | Moagem de aço para peças específicas.
+MFT3-1114:71880057MB 13 (5 POS/ 5PC) | Conjunto de Fixação de Tornos MFT com 5 peças e 5 posições.
+MFT3-1116: 7188.005.72X-9 (3 POS/ 4PC) | Conjunto de Fixação de Tornos MFT com 4 peças e 3 posições.
+NIPO-TEC - 47.001.00.730 - BROCA | Broca para uso geral.
+Material CA 140/1 - MFT | Material para fixação de tornos MFT.
+SP - MFT5-0006-21 | Conjunto de Fixação de Tornos MFT com 21 peças.
+MFT3-1983 - 718800952E-20 (1pos/3pc) | Conjunto de Fixação de Tornos MFT com 3 peças e 1 posição.
+MFT3-1727 - 718800573C Gr65 15/28 | Material CA 140/1 para fixação de tornos MFT, grade 65.
+SP - CONJUNTO MFT5 0155-20 | Conjunto de Fixação de Tornos MFT com 20 peças.
+MFT3-1182 - 71880055JD-11 - 3POS/3P | Conjunto de Fixação de Tornos MFT com 3 peças e 3 posições.
+MFT3-4528 - 71880062FR1 Gr11 02/03 | Material CA 140/1 para Fixação de Tornos MFT, grade 11.
+MFT3-1115 - 718800884W-41 | Conjunto de Fixação de Tornos MFT com 41 peças e 2 posições.
+MFT3-1117 - 71880055JD-08 | Conjunto de Fixação de Tornos MFT com 4 peças e 3 posições.
+MP MUELLER NF 460297 MO | Moagem de aço para peças específicas.
+NIPO-TEC - BROCA NTF495-854 | Broca para uso geral.
+KIT ARMATURA DELTA 881 | LEXUS NX 300 TSV - Kit para reparo e manutenção de veículos Lexus.
 Essas descrições técnicas foram reformuladas para torná-las mais claras e legíveis, destacando os principais elementos das características dos materiais e serviços.
 ~~~
 
@@ -52,6 +54,7 @@ Return:
 Here are the descriptions rewritten in Portuguese:
 
 Material ou serviço | Descrição
+
 MFT3-1852 -992/21-71880055JD-15-06 (2PC) | Sold by Luis Fernando Soldati - ME
 SP - CONJUNTO MFT5_0280-20 | Sold by RDB Comércio Indústria e Serviço
 MFT3-4529 - LM2024-Gr31 | Sold by GDS Usinação Ltda - ME
@@ -73,6 +76,7 @@ Note that some of the descriptions have been shortened or modified to better fit
 Return:
 ~~~md
 Material ou serviço | Descrição
+
 MFT3-1852 -992/21-71880055JD-15-06 (2PC) | Luis Fernando Soldati (Mecânica de Precisão)
 SP - Conjunto MFT5_0280-20       | RDB Comércio, Indústria e Serviços de Equipamentos
 MFT3-4529 - LM2024-Gr31           | GDS Usinagem Ltda (Mecânica de Precisão)
