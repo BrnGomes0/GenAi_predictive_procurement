@@ -13,7 +13,7 @@ Agora, reformule as seguintes descrições:
 """
 ~~~
 
-### Using LLaMA3 (Supplier not Bosch)
+### Using LLaMA3 (Supplier not Bosch) ✅
 ---
 
 Return:
