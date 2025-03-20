@@ -5,7 +5,7 @@ import requests
 class Llama3:
     def __init__(self):
         self.url_generate = "http://localhost:11434/api/generate"
-        self.model = "nous-hermes"
+        self.model = "llama3"
         print(self.model)
 
     
@@ -36,4 +36,4 @@ class Llama3:
 
         pyload = self.generate_pyload(prompt=prompt)
         response = requests.post(self.url_generate, json=pyload)
-        return response.json()
+        return response.json().get("response")

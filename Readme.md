@@ -16,6 +16,7 @@ Agora, reformule as seguintes descrições:
 ### Using LLaMA3 (Supplier not Bosch)
 ---
 
+#### Example One:
 Return:
 ~~~md
 Aquilo que você está procurando é uma lista de materiais e serviços com descrições técnicas. Aqui estão as descrições reformuladas para torná-las mais claras e legíveis:
@@ -47,6 +48,35 @@ KIT ARMATURA DELTA 881 | LEXUS NX 300 TSV - Kit para reparo e manutenção de ve
 Essas descrições técnicas foram reformuladas para torná-las mais claras e legíveis, destacando os principais elementos das características dos materiais e serviços.
 ~~~
 
+#### Example Two:
+Return:
+~~~md
+Aqui estão as descrições reformuladas em português:
+
+**Material e Serviço**
+
+* Alicate SK42 BZI Ø40,63: É um alicate de alta qualidade com um diâmetro de 40,63 milímetros.
+* Chapa N610014970AE: Trata-se de uma chapa resistente e duradoura com características específicas.
+* Cesto em Aço Inoxidável N210088015AA: Um cesto robusto feito de aço inoxidável para uso em ambientes industriais.
+* Tubo PCTFE N510069068AA: Um tubo flexível e resistente feito de poliéster fluorado, ideal para aplicações específicas.
+* Guia N610048963AB: Uma guia precisa e confiável com características técnicas específicas.
+* Porta-Bico N610009409AA: Uma porta-bico segura e prática para uso em operações de manuseio de materiais.
+* Cilindro Elástico KXF0DKAAA00: Um cilindro elástico resistente e flexível com características específicas.
+* Braço de Alicate KXFB00S6A03: Um braço de alicate robusto e confiável para uso em operações de manuseio de materiais.
+* Cilindro de Aço N210007425AA: Um cilindro de aço resistente e duradouro com características específicas.
+* Colar de Presa 969.483 MGN6: Um colar de presa preciso e confiável para uso em aplicações industriais.
+* Colar de Presa 969.488 MGN20: Um colar de presa robusto e resistente com características específicas.
+* Nut de Segurança 969.873 MPS10-0708: Uma nut de segurança segura e confiável para uso em aplicações industriais.    
+* Nut de Segurança 969.884 MPS13-1112: Uma nut de segurança robusta e resistente com características específicas.     
+* Nut de Segurança 969.909 MPS20-1314: Uma nut de segurança precisa e confiável para uso em aplicações industriais.   
+* Nut de Segurança 969.915 MPS20-1920: Uma nut de segurança segura e confiável para uso em aplicações industriais.    
+* Chave de Colar 805.256: Uma chave de colar precisa e confiável para uso em operações de manuseio de materiais.      
+* Cola 961.522 NBC6-6AA: Uma cola resistente e flexível com características específicas.
+* Cola 961.557 NBC10-5AA: Uma cola robusta e resistente com características específicas.
+* Cola 961.561 NBC10-7AA: Uma cola precisa e confiável para uso em operações de manuseio de materiais.
+
+Lembre-se de que essas descrições devem ser feitas de forma clara e objetiva, evitando linguagem técnica exagerada ou ambíguas.
+~~~
 ### Using LLaMA2 (Supplier not Bosch)
 ---
 Return:

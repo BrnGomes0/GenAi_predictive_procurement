@@ -2,7 +2,7 @@ import polars as pl
 
 class Files:
     def __init__(self) -> None:
-        self.path_file_csv = "files_csv/input_old_files.csv"
+        self.path_file_csv = "files_csv/input_new.csv"
         self.improved_file_csv = "files_csv/output_file.csv"
         self.df_default = self.read_csv() # Return my df in instance of class
     
