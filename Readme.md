@@ -216,6 +216,8 @@ Observação: O termo "MFT3" parece ser uma identificação de código para o ma
 
 ## Getting Started 📍
 
+### As a dev 💻
+
 #### First Step - Clone the repo:
 ~~~git
 git clone --branch main https://github.com/BrnGomes0/GenAi_predictive_procurement.git
@@ -226,19 +228,46 @@ git clone --branch main https://github.com/BrnGomes0/GenAi_predictive_procuremen
 docker compose up
 ~~~
 
-#### Third Step - Enter the created container
-~~~docker
-docker exec -it <idContainer> bash
-~~~
-
-#### Fourth Step - Install the imagens of models inside the container
-~~~docker
-ollama pull llama2
-ollama pull llama3
-ollama pull mistral
-~~~
-
 #### Fifth Step - Run the command python for start the project
 ~~~py
-python .\main.py
+python .\run.py
 ~~~
+
+### As a Client 😀
+
+*URL*: `http://localhost:5001/ollama`
+
+**ENDPOINTS API:**
+
+🌐 TEST THE APPLICATION:
+
+- Endpoint: `/test`
+- Method: `GET`
+
+✅ Expected Response:
+~~~json
+{
+    "message": "The application OLLAMA it's working..."
+}
+~~~
+Status Code: `200`
+
+🌐 SEND PROMPT:
+
+- Endpoint: `/create`
+- Method: `POST`
+
+Required Attributes:
+~~~json
+{
+    "prompt": "string"
+}
+~~~
+
+✅ Expected Response:
+~~~json
+{
+    "message": "string"
+}
+~~~
+Status Code: `200`
