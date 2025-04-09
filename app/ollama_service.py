@@ -4,7 +4,7 @@ import requests
 @dataclass
 class ServiceOllama:
     prompt: str
-    url_ollama_generate: str = "http://localhost:11434/api/generate"
+    url_ollama_generate: str = "https://ollama-llama3-96lb.onrender.com/api/generate"
     model: str = "llama3"
 
 
