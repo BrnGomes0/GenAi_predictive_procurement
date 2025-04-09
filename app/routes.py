@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request, Blueprint
-from ollama_service import ServiceOllama
+from app.ollama_service import ServiceOllama
 
 ollama = Blueprint("ollama", __name__, url_prefix="/ollama")
 
