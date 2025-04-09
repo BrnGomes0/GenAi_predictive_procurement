@@ -4,7 +4,8 @@ import requests
 @dataclass
 class ServiceOllama:
     prompt: str
-    url_ollama_generate: str = "https://ollama-llama3-96lb.onrender.com/api/generate"
+    url_ollama_generate_render: str = "https://ollama-llama3-96lb.onrender.com/api/generate"
+    url_ollama_generate_local: str = ""
     model: str = "llama3"
 
 
@@ -22,5 +23,5 @@ class ServiceOllama:
 
     def _response_ollama(self, prompt: str) -> str:
         pyload = self._generate_pyload(prompt=prompt)
-        response = requests.post(self.url_ollama_generate, json=pyload)
+        response = requests.post(self.url_ollama_generate_render, json=pyload)
         return response.json().get("response")
