@@ -8,5 +8,15 @@ services:
       - ollama:/root/.ollama
     command: ["serve"]
 
+  application:
+    container_name: api-container
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+
 volumes:
   ollama:
