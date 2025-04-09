@@ -12,7 +12,7 @@ def test_application():
 
 @ollama.route("/create", methods=["POST"])
 def ask_to_ollama():
-    data = request.form.to_dict()
+    data = request.json()
     prompt = data.get("prompt")
     service_ollama = ServiceOllama(prompt=prompt)
     return jsonify({
