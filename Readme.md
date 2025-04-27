@@ -296,6 +296,22 @@ Here is the list of descriptions and categories:
 4103108533|TEF3|SERVIÇO SERRALHERIA SERRANORTE, categoria: Serviços de Serralheria
 ~~~~
 
+Return Four:
+~~~md
+Here is the response:
+
+4103064514|item_d: SP - ANEL VITON 2137, categoria: Engenharia Mecânica
+4103033547|item_d: TEF3-P2H400290, categoria: Manutenção Industrial
+4103094843|item_d: N°. 73/24- EKPT - Mão de obra mecânica, categoria: Serviços Mecânicos
+4103076951|item_d: Calibração Zoller SN 405 - COT. 379/22, categoria: Calibração e Testagem
+4103095700|item_d: CABO AK9/20M, categoria: Cabos Elétricos
+4103019267|item_d: SP - FILTRO PM-CG-E 495X495X50MM, categoria: Filtração Industrial
+4103027968|item_d: MODULO TAMPA P/ CONECTOR, categoria: Conectores Eletrônicos
+4103021438|item_d: 450.20.00 - Válvula Dosadora 0.003-0.2ml, categoria: Componentes Químicos
+4103108980|item_d: CAFE SOLUVEL, categoria: Produtos Químicos
+4103108533|item_d: TEF3 - SERVIÇO SERRALHERIA SERRANORTE, category: Serviços de Serralheria
+~~~~
+
 ## Getting Started 📍
 
 ### As a dev 💻
