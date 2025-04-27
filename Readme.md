@@ -213,6 +213,88 @@ Kit Aramida Tec 811 - Lexus NX 300 TSV| Carbon Blindados Ltda
 Observação: O termo "MFT3" parece ser uma identificação de código para o material ou serviço, enquanto que"SP" aparece como um indicativo de que a descrição se refere a um conjunto. Além disso, as descriçõescontêm referências às indústrias da mecânica de precisão e ferreiro (ou ferramenta), bem como o nome dasempresas relacionadas com estas indústrias ou os nomes dos produtos fabricados por elas.
 ~~~
 
+### Doing the clustes with Llama3
+Prompt:
+~~~md
+prompt = f"""
+            Você receberá dados contendo:
+                item_d: descrição do item ou serviço.
+
+            Sua tarefa é:
+                Ler e interpretar o conteúdo de item_d.
+                Criar apenas uma categoria que agrupe o item/serviço, baseada na função principal, finalidade ou tipo de atividade descrita.
+                A categoria deve ser concisa, específica e usar termos técnicos e comerciais adequados.
+                A categoria deve ser criada em no máximo 3 palavras.
+
+            Regras:
+                Não explique, não justifique e não adicione comentários.
+                Não reescreva a descrição.
+                Não altere o conteúdo original.
+                Não adicione observações.
+
+            Apenas responda no seguinte formato:
+                item_d: [descrição original], categoria: [categoria gerada]
+            Exemplo:
+                item_d: Instalação de rede elétrica residencial, categoria: Instalações Elétricas
+                item_d: Serviço de consultoria jurídica empresarial, categoria: Consultoria Jurídica
+                item_d: Venda de computadores e periféricos, categoria: Equipamentos de Informática
+
+            Importante:
+                A resposta deve ser uma lista de descrições e categorias no formato acima, uma por linha.
+                Se a descrição estiver vaga, use a categoria mais próxima possível, mas nunca invente funções.
+        ```
+        {table_str}
+        ```
+        """
+~~~~
+
+Return One:
+~~~md
+Here is the output:
+
+4103064514: G.S.O. VEDAcoES INDS. LTDA, categoria: Serviços Gerais
+4103033547: TEF3-P2H400290, categoria: Equipamentos Industriais
+4103094843: N°. 73/24- EKPT - Mão de obra mecânica, categoria: Serviços Mecânicos
+4103076951: Calibração Zoller SN 405 - COT. 379/22, categoria: Serviços de Calibração
+4103095700: CABO AK9/20M, categoria: Componentes Elétricos
+4103019267: SP - FILTRO PM-CG-E 495X495X50MM, categoria: Filtros Industriais
+4103027968: MODULO TAMPA P/ CONECTOR, categoria: Componentes Eletrônicos
+4103021438: 450.20.00 - Válvula Dosadora 0.003-0.2ml, categoria: Componentes Químicos
+4103108980: CAFE SOLUVEL, categoria: Produtos de Consumo
+4103108533: TEF3|SERVIÇO SERRALHERIA SERRANORTE, categoria: Serviços de Serralheria
+~~~~
+
+Return Two:
+~~~md
+Here are the categorized items:
+
+4103064514|3|SP - ANEL VITON 2137|0|G.S.O.  VEDAcoES INDS. LTDA, categoria: Materiais
+4103033547|14|TEF3-P2H400290|0|ASSAHI MAQUINAS E EQUIPAMENTOS LTDA, categoria: Maquinaria
+4103094843|1|N°. 73/24- EKPT - Mão de obra mecânica|1|LUIS FERNANDO SOLDATI - ME, categoria: Serviços
+4103076951|1|Calibração Zoller SN 405 - COT. 379/22|1|ZOLLER DO BRASIL SOLUCOES PARA A, categoria: Consultoria        
+4103095700|4|CABO AK9/20M|0|Mettler - Toledo Industria, categoria: Materiais
+4103019267|1|SP - FILTRO PM-CG-E 495X495X50MM|0|LINTER FILTROS INDUSTRIAIS LTDA, categoria: Materiais
+4103027968|6|MODULO TAMPA P/ CONECTOR|0|DIGITALDOOR COMERCIO DE EQUIPAMENTO, categoria: Equipamentos
+4103021438|1|450.20.00 - Válvula Dosadora 0.003-0.2ml|0|B SORDI COMERCIO DE MAQUINAS E, categoria: Maquinaria
+4103108980|2|CAFE SOLUVEL|0|PRACAFE COMERCIAL LTDA  EPP, categoria: Produtos
+4103108533|1|"TEF3|SERVIÇO SERRALHERIA SERRANORTE"|1|Dimas Reger de Godoi Oliveira - ME, categoria: Serviços
+~~~~
+
+Return Three:
+~~~md
+Here is the list of descriptions and categories:
+
+4103064514|SP - ANEL VITON 2137, categoria: Anéis
+4103033547|TEF3-P2H400290, categoria: Componentes Eletrônicos
+4103094843|Mão de obra mecânica, categoria: Serviços Manuais
+4103076951|Calibração Zoller SN 405 - COT. 379/22, categoria: Calibrações
+4103095700|CABO AK9/20M, categoria: Cabos e Fios
+4103019267|FILTRO PM-CG-E 495X495X50MM, categoria: Filtragem
+4103027968|MODULO TAMPA P/ CONECTOR, categoria: Módulos Eletrostáticos
+4103021438|Válvula Dosadora 0.003-0.2ml, categoria: Componentes Químicos
+4103108980|CAFE SOLUVEL, categoria: Produtos Alimentares
+4103108533|TEF3|SERVIÇO SERRALHERIA SERRANORTE, categoria: Serviços de Serralheria
+~~~~
 
 ## Getting Started 📍
 
