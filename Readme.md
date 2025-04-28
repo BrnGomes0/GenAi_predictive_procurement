@@ -101,61 +101,42 @@ prompt = f"""
 Return:
 ~~~md
 Aqui estão as descrições técnicas reescritas para serem mais claras, legíveis e bem estruturadas em português:
-
 1. Clamp SK42 BZI Ø40,63 (Materiais de Conexão)
 O clamp SK42 BZI Ø40,63 é um dispositivo utilizado para fixar materiais com precisão, oferecendo uma compressão segura e estabilizadora.
-
 2. PLATE N610014970AE (Peças de Metal)
 A placa N610014970AE é uma peça metalúrgica utilizada em aplicativos industriais, caracterizada por sua resistência e durabilidade.
-
 3. PALLET,STAINLESS STEEL N210088015AA (Equipamentos de Logística)
 O pallet N210088015AA é um equipamento de logística feito de aço inoxidável, projetado para transportar materiais pesados e delicados com segurança.
-
 4. TUBE,PCTFE N510069068AA (Componentes Plásticos)
 A tubulação PCTFE N510069068AA é um componente plástico utilizado em aplicativos industriais, conhecido por sua resistência à temperatura e ao impacto.
-
 5. GUIDE N610048963AB (Peças de Guiamento)
 O guia N610048963AB é uma peça utilizada para guiagem precisa de materiais, oferecendo estabilidade e previsibilidade em aplicativos industriais.
-
 6. NOZZLE HOLDER N610009409AA (Equipamentos de Processamento)
 O holder de bico N610009409AA é um equipamento utilizado em processos de fabricação, projetado para manter a precisão e segurança durante a manipulação de materiais.
-
 7. SPRING KXF0DKAAA00 (Componentes Elásticos)
 A mola KXF0DKAAA00 é um componente elástico utilizado em aplicativos industriais, conhecido por sua flexibilidade e resistência à compressão.
-
 8. CLAMP ARM KXFB00S6A03 (Materiais de Conexão)
 O braço de clamp KXFB00S6A03 é um dispositivo utilizado para fixar materiais com precisão, oferecendo uma compressão segura e estabilizadora.
-
 9. SPRING,STEEL N210007425AA (Componentes Elásticos)
 A mola de aço N210007425AA é um componente elástico utilizado em aplicativos industriais, conhecido por sua resistência à compressão e flexibilidade.
-
 10. Collet Nut 969.483 MGN6 (Componentes de Fixação)
 A coluna 969.483 MGN6 é uma peça utilizada para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
-
 11. Collet Nut 969.488 MGN20 (Componentes de Fixação)
 A coluna 969.488 MGN20 é uma peça utilizada para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
-
 12. Sealed Nut 969.873 MPS10-0708 (Componentes de Fixação)
 A porca selada 969.873 MPS10-0708 é uma peça utilizada para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
-
 13. Sealed Nut 969.884 MPS13-1112 (Componentes de Fixação)
 A porca selada 969.884 MPS13-1112 é uma peça utilizada para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
-
 14. Sealed Nut 969.909 MPS20-1314 (Componentes de Fixação)
 A porca selada 969.909 MPS20-1314 é uma peça utilizada para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
-
 15. Sealed Nut 969.915 MPS20-1920 (Componentes de Fixação)
 A porca selada 969.915 MPS20-1920 é uma peça utilizada para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
-
 16. Collet Chuck 805.256 (Componentes de Fixação)
 O aperto 805.256 é um componente utilizado para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
-
 17. Collet 961.522 NBC6-6AA (Componentes de Fixação)
 A coluna 961.522 NBC6-6AA é uma peça utilizada para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
-
 18. Collet 961.557 NBC10-5AA (Componentes de Fixação)
 A coluna 961.557 NBC10-5AA é uma peça utilizada para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
-
 19. Collet 961.561 NBC10-7AA (Componentes de Fixação)
 A coluna 961.561 NBC10-7AA é uma peça utilizada para fixar materiais com precisão, oferecendo estabilidade e segurança em aplicativos industriais.
 ~~~
@@ -249,7 +230,7 @@ prompt = f"""
 ~~~~
 
 Example One:
-~~~md
+
 | Description | Category |
 | ----------- | -------- |
 | SP - ANEL VITON 2144 | Serviços Gerais |
@@ -262,10 +243,10 @@ Example One:
 | 450.20.00 - Válvula Dosadora 0.003-0.2ml | Componentes Químicos |
 | CAFE SOLUVEL | Produtos de Consumo |
 | TEF3\|SERVIÇO SERRALHERIA SERRANORTE | Serviços de Serralheria |
-~~~~
+
 
 Example Two:
-~~~md
+
 | Description | Category |
 | ----------- | -------- |
 | SP - ANEL VITON 2137 | Materiais |
@@ -278,10 +259,10 @@ Example Two:
 | 450.20.00 - Válvula Dosadora 0.003-0.2ml | Maquinaria |
 | CAFE SOLUVEL | Produtos |
 | TEF3\|SERVIÇO SERRALHERIA SERRANORTE | Serviços |
-~~~~
 
-Return Three:
-~~~md
+
+Example Three:
+
 | Description | Category |
 | ----------- | -------- |
 | SP - ANEL VITON 2137 | Anéis |
@@ -294,10 +275,9 @@ Return Three:
 | Válvula Dosadora 0.003-0.2ml | Componentes Químicos |
 | CAFE SOLUVEL | Produtos Alimentares |
 | TEF3\|SERVIÇO SERRALHERIA SERRANORTE | Serviços de Serralheria |
-~~~~
 
-Return Four:
-~~~md
+Example Four:
+
 | Description | Category |
 | ----------- | -------- |
 | SP - ANEL VITON 2137 | Engenharia Mecânica |
@@ -310,7 +290,6 @@ Return Four:
 | 450.20.00 - Válvula Dosadora 0.003-0.2ml | Componentes Químicos |
 | CAFE SOLUVEL | Produtos Químicos |
 | TEF3 - SERVIÇO SERRALHERIA SERRANORTE | Serviços de Serralheria |
-~~~~
 
 ## Getting Started 📍
 
