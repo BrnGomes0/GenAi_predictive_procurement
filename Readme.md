@@ -293,18 +293,19 @@ Example Four:
 
 *Example Five (Category based in second description):
 
-| Description Default                                | Description Improved | Category
-|----------------------------------------------------|-----------------------|
-| SP - ANEL VITON 2137                               | Anel de vedação industrial modelo Viton 2137,0 fabricado pela G.S.O. Vedações, utilizado para garantir a estanqueidade em aplicações industriais. | Componentes industriais
-| TEF3-P2H400290                                     | Cabeçote Teflon P2H400290 da Assahi Maquinas e Equipamentos LTDA, destinado ao uso em aplicação de alta temperatura e pressão. | Componentes para aplicações de alta temperatura e pressão
-| N°. 73/24- EKPT - Mão de obra mecânica             | Mão de obra mecânica especializada modelo EKPT N°. 73/24, oferecida pelo profissional Luis Fernando Soldati - ME, destinada ao reparo e manutenção de máquinas e equipamentos. | Serviços de reparo e manutenção
-| Calibração Zoller SN 405 - COT. 379/22             | Serviço de calibração Zoller SN 405 fornecido pela Soluções para a Indústria Zoller do Brasil, utilizado para ajustar precisamente instrumentos e equipamentos mecânicos. | Serviços de calibração e ajuste
-| CABO AK9/20M                                       | Cabo de aço flexível modelo AK9/20M da Mettler-Toledo Industria, utilizado para aplicação em instalações industriais| Componentes industriais
-| SP - FILTRO PM-CG-E 495X495X50MM                   | Filtro PM-CG-E de 495x495x50mm da Linter Filtros Industriais LTDA, utilizado para purificar fluidos e gases em aplicações industriais. | Filtros e purificadores
-| MODULO TAMPA P/ CONECTOR                           | Módulo de tampa para conectar dispositivos eletrônicos da Digitaldoor Comércio de Equipamento, destinado ao uso em projetos de automação industrial. | Componentes para automação industrial
-| 450.20.00 - Válvula Dosadora 0.003-0.2ml           | Válvula dosadora 0.003-0.2ml modelo 450.20.00 da B Sordi Comércio de Maquinas e Equipamentos LTDA, utilizada para controlar a vazão de fluidos em aplicações industriais. | Componentes industriais
-| CAFE SOLUVEL                                       | Solução de café solúvel da Pracafe Comercial LTDA EPP, destinada ao uso em aplicação de produção de bebidas quentes. | Produtos alimentícios
-| TEF3 - SERVIÇO SERRALHERIA SERRANORTE              | Serviço de serralheria modelo TEF3 da Serralheria Serranorte, fornecido pela Dimas Reger de Godoi Oliveira - ME, utilizado para execução de obras de carpintaria e madeireiros | Serviços de carpintaria e madeireiros
+| Description Default | Description Improved | Category |
+|---------------------|----------------------|----------|
+| SP - ANEL VITON 2137 | Anel de vedação industrial modelo Viton 2137,0 fabricado pela G.S.O. Vedações, utilizado para garantir a estanqueidade em aplicações industriais. | Componentes industriais |
+| TEF3-P2H400290 | Cabeçote Teflon P2H400290 da Assahi Maquinas e Equipamentos LTDA, destinado ao uso em aplicação de alta temperatura e pressão. | Componentes para aplicações de alta temperatura e pressão |
+| N°. 73/24- EKPT - Mão de obra mecânica | Mão de obra mecânica especializada modelo EKPT N°. 73/24, oferecida pelo profissional Luis Fernando Soldati - ME, destinada ao reparo e manutenção de máquinas e equipamentos. | Serviços de reparo e manutenção |
+| Calibração Zoller SN 405 - COT. 379/22 | Serviço de calibração Zoller SN 405 fornecido pela Soluções para a Indústria Zoller do Brasil, utilizado para ajustar precisamente instrumentos e equipamentos mecânicos. | Serviços de calibração e ajuste |
+| CABO AK9/20M | Cabo de aço flexível modelo AK9/20M da Mettler-Toledo Industria, utilizado para aplicação em instalações industriais | Componentes industriais |
+| SP - FILTRO PM-CG-E 495X495X50MM | Filtro PM-CG-E de 495x495x50mm da Linter Filtros Industriais LTDA, utilizado para purificar fluidos e gases em aplicações industriais. | Filtros e purificadores |
+| MODULO TAMPA P/ CONECTOR | Módulo de tampa para conectar dispositivos eletrônicos da Digitaldoor Comércio de Equipamento, destinado ao uso em projetos de automação industrial. | Componentes para automação industrial |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml | Válvula dosadora 0.003-0.2ml modelo 450.20.00 da B Sordi Comércio de Maquinas e Equipamentos LTDA, utilizada para controlar a vazão de fluidos em aplicações industriais. | Componentes industriais |
+| CAFE SOLUVEL | Solução de café solúvel da Pracafe Comercial LTDA EPP, destinada ao uso em aplicação de produção de bebidas quentes. | Produtos alimentícios |
+| TEF3 - SERVIÇO SERRALHERIA SERRANORTE | Serviço de serralheria modelo TEF3 da Serralheria Serranorte, fornecido pela Dimas Reger de Godoi Oliveira - ME, utilizado para execução de obras de carpintaria e madeireiros | Serviços de carpintaria e madeireiros |
+
 
 
 ## Getting Started 📍
