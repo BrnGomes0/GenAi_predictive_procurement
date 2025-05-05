@@ -307,6 +307,31 @@ Example Four:
 | TEF3 - SERVIÇO SERRALHERIA SERRANORTE | Serviço de serralheria modelo TEF3 da Serralheria Serranorte, fornecido pela Dimas Reger de Godoi Oliveira - ME, utilizado para execução de obras de carpintaria e madeireiros | Serviços de carpintaria e madeireiros |
 
 
+*Example Six (Many materials in the same cluster) (COFFEE CLUSTER):
+| Description Default | Description Improved | Category |
+|---------------------|----------------------|----------|
+| Dose de Café Solúvel Longo M | Preparo de café solúvel com dose prolongada. |(Café Solúvel Longo)|
+| Dose de Café Expresso Longo | Serviço de café expresso com dose estendida. |(Café Expresso Longo) |
+| Dose de Café Expresso Curto | Preparo de café expresso com dose reduzida. |(Café Expresso Curto)|
+| Dose de Café Expresso Curto | Serviço de café expresso com dose curta. |(Café Expresso Curto)|
+| Dose de Café Tradicional | Preparo de café tradicional feito com habilidade e dedicação. |(Café Tradicional)|
+| Dose de Café Solúvel Curto M | Preparo de café solúvel com dose reduzida. |(Café Solúvel Curto) |
+| Café Expresso 000421 | Serviço de café expresso com dose estendida e sabor intenso. |(Café Expresso Intenso)|
+| Café | Serviço de café puro. |(Café Puro)|
+
+*Example Seven (Many materials in the same cluster) (MASK CLUSTER):
+| Description Default | Description Improved |
+|---------------------|----------------------|
+| Máscara Tricoline Dupla Lavável | Máscara cirúrgica descartável feita de tricô duplo, com superfície lavável e ideal para uso em procedimentos médicos. | (Equipamento Médico)|
+| GUIA DA MASCARA V-285-40-48 | Documentação técnica para a máscara cirúrgica descartável V-285-40-48, destinada ao uso em operações de cirurgia. |(Equipamento Médico)|
+| Máscara de tecido 100 algodão Azul | Máscara cirúrgica feita de tecido de 100% algodão azul, projetada para fornecer proteção adequada durante procedimentos médicos. |(Equipamento Médico)|
+| MASCARAS DE PROTEÃ‡ÃƒO | Conjunto de máscaras cirúrgicas descartáveis destinadas a fornecer proteção ao usuário e evitar contaminação em ambientes médicos. |(Equipamento Médico)|
+| CBG - *MÁSCARA AUTOMÁTICA NOVA* | Máscara automática recentemente desenvolvida pela CBG, projetada para fornecer uma proteção mais eficaz durante procedimentos médicos. |(Equipamento Médico)|
+| MÃSCARAS DE PROTEÃ‡ÃƒO | Conjunto de máscaras cirúrgicas descartáveis destinadas a fornecer proteção ao usuário e evitar contaminação em ambientes médicos. |(Equipamento Médico)|
+| MÁSCARA DE PROTEÇÃO - TECIDO 100 ALGODÃO | Máscara cirúrgica feita de tecido de 100% algodão, projetada para fornecer proteção adequada durante procedimentos médicos. |(Equipamento Médico)|
+| MÃSCARAS DESCARTÃVEIS | Conjunto de máscaras cirúrgicas descartáveis destinadas a serem utilizadas uma vez e then descartadas, evitando contaminação em ambientes médicos. |(Equipamento Médico)|
+| MASCARA 100 ALGODÃO | Máscara cirúrgica feita de tecido de 100% algodão, projetada para fornecer proteção adequada durante procedimentos médicos. |(Equipamento Médico)|
+
 
 ## Getting Started 📍
 
@@ -324,7 +349,7 @@ docker compose up
 
 #### Fifth Step - Run the command python for start the project
 ~~~py
-python .\run.py
+python .\main.py
 ~~~
 
 ### As a Client 😀
