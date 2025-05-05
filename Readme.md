@@ -320,8 +320,8 @@ Example Four:
 | Café | Serviço de café puro. |(Café Puro)|
 
 *Example Seven (Many materials in the same cluster) (MASK CLUSTER):
-| Description Default | Description Improved |
-|---------------------|----------------------|
+| Description Default | Description Improved | Category |
+|---------------------|----------------------|----------|
 | Máscara Tricoline Dupla Lavável | Máscara cirúrgica descartável feita de tricô duplo, com superfície lavável e ideal para uso em procedimentos médicos. | (Equipamento Médico)|
 | GUIA DA MASCARA V-285-40-48 | Documentação técnica para a máscara cirúrgica descartável V-285-40-48, destinada ao uso em operações de cirurgia. |(Equipamento Médico)|
 | Máscara de tecido 100 algodão Azul | Máscara cirúrgica feita de tecido de 100% algodão azul, projetada para fornecer proteção adequada durante procedimentos médicos. |(Equipamento Médico)|
