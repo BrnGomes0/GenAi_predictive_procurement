@@ -378,8 +378,8 @@ A maioria dos itens da lista se refere a componentes ou partes para motores, com
 | CHOPPER MOTOR                                          |
 
 
-## Test Two (Two):
-# Category: 
+## Test Two (1.1) -> GenAI provide the name of cluster based in items
+### Category: 
 
 | Category GENAI             | Category Antiga          |
 |------------------------|--------------------------|
