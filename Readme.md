@@ -332,6 +332,54 @@ Example Four:
 | MÃSCARAS DESCARTÃVEIS | Conjunto de máscaras cirúrgicas descartáveis destinadas a serem utilizadas uma vez e then descartadas, evitando contaminação em ambientes médicos. |(Equipamento Médico)|
 | MASCARA 100 ALGODÃO | Máscara cirúrgica feita de tecido de 100% algodão, projetada para fornecer proteção adequada durante procedimentos médicos. |(Equipamento Médico)|
 
+### Final Tests 📃
+
+## Test One -> Improving description (short):
+| Default Description                           | Improved Description              |
+|-----------------------------------------------|-----------------------------------|
+| SP - ANEL VITON 2137                          | Vida de Anel Viton                |
+| TEF3-P2H400290                                | Teflon P2H400290                  |
+| N°. 73/24- EKPT - Mão de obra mecânica        | Serviço Mecânico                  |
+| Calibração Zoller SN 405 - COT. 379/22        | Calibração Zoller                 |
+| CABO AK9/20M                                  | Cabo AK9/20M                      |
+| SP - FILTRO PM-CG-E 495X495X50MM              | Filtro PM-CG-E                    |
+| MODULO TAMPA P/ CONECTOR                      | Módulo de Conector                |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml      | Válvula Dosadora                  |
+| CAFE SOLUVEL                                  | Café Solúvel                      |
+| TEF3\|SERVIÇO SERRALHERIA SERRANORTE          | TEF3 - Serviço Serralheria        |
+
+
+## Test Two (One) -> GenAI provide the name of cluster based in items
+## Categoria Macro Sugerida
+
+**Componentes e Motores**
+
+### Justificativa
+
+A maioria dos itens da lista se refere a componentes ou partes para motores, como óleo para motor, diferencial e freio, além de motores propriamente ditos. Também há produtos ligados à automação e controle, como o "MP MOTOR SERVO B6/2000" e o "MAXON COMBINATION MOTOR RE25 20W 18V". Por isso, a categoria **"Componentes e Motores"** representa bem o conjunto.
+
+---
+
+### Lista de Itens
+
+| Item                                                   |
+|--------------------------------------------------------|
+| MP MOTOR SERVO B6/2000                                 |
+| OLEO PARA MOTOR 15W40 MB 228.3 DBL 6610                |
+| OLEO PARA CAMBIO A 80W MB 235.5                        |
+| OLEO PARA DIFERENCIAL 235.2 PLUS                       |
+| OLEO FREIO DOT 4                                       |
+| MAXON COMBINATION MOTOR RE25 20W 18V                   |
+| Tela Motorizada 106" PROJETELAS 106E1WT                |
+| SP - MOTOR D229-3                                      |
+| Motor Germanica                                        |
+| CHOPPER MOTOR                                          |
+
+
+## Test Two (Two):
+
+
+## Test Three -> Provide to GenAI the category/cluster and items, to choose (Which item goes to which cluster?)
 
 ## Getting Started 📍
 
