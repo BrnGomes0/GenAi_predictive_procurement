@@ -332,9 +332,9 @@ Example Four:
 | MÃSCARAS DESCARTÃVEIS | Conjunto de máscaras cirúrgicas descartáveis destinadas a serem utilizadas uma vez e then descartadas, evitando contaminação em ambientes médicos. |(Equipamento Médico)|
 | MASCARA 100 ALGODÃO | Máscara cirúrgica feita de tecido de 100% algodão, projetada para fornecer proteção adequada durante procedimentos médicos. |(Equipamento Médico)|
 
-### Final Tests 📃
+## Final Tests 📃
 
-## Test One -> Improving description (short):
+### Test One -> Improving description (short):
 | Default Description                           | Improved Description              |
 |-----------------------------------------------|-----------------------------------|
 | SP - ANEL VITON 2137                          | Vida de Anel Viton                |
@@ -349,12 +349,14 @@ Example Four:
 | TEF3\|SERVIÇO SERRALHERIA SERRANORTE          | TEF3 - Serviço Serralheria        |
 
 
-## Test Two (One) -> GenAI provide the name of cluster based in items
-## Categoria Macro Sugerida
+### Test Two (1.0) -> GenAI provide the name of cluster based in items
+### Comparação de Categorias
 
-**Componentes e Motores**
+| Category GENAI             | Category Antiga          |
+|------------------------|--------------------------|
+| **Componentes e Motores** | **motor, oleo, rolamento** |
 
-### Justificativa
+### Why?
 
 A maioria dos itens da lista se refere a componentes ou partes para motores, como óleo para motor, diferencial e freio, além de motores propriamente ditos. Também há produtos ligados à automação e controle, como o "MP MOTOR SERVO B6/2000" e o "MAXON COMBINATION MOTOR RE25 20W 18V". Por isso, a categoria **"Componentes e Motores"** representa bem o conjunto.
 
@@ -377,9 +379,73 @@ A maioria dos itens da lista se refere a componentes ou partes para motores, com
 
 
 ## Test Two (Two):
+# Category: 
+
+| Category GENAI             | Category Antiga          |
+|------------------------|--------------------------|
+| **Cabos e Componentes Elétricos** | **cabo, vde, bwf** |
+
+## Why?
+A maioria dos itens refere-se a cabos elétricos de diferentes tipos e aplicações, como cabos flexíveis, automotivos, de conexão e para força. Também está incluso um componente de automação elétrica (contator). Assim, o nome **Cabos e Componentes Elétricos** representa bem o conjunto.
+
+## Lista de Itens
+
+| item                                               |
+|----------------------------------------------------|
+| CABO FLEX 1KV EPR 4X25MM PT 90G                    |
+| CABO FLEX 1KV EPR 1X25MM VD 90G                    |
+| Cabo de conexão - Calibrador de força S23         |
+| Contator CWMC50 BOBINA 220V WEG                   |
+| CONDVOLT cabo Auto ER Bitola: 0,50 mm² c          |
+| CONDVOLT cabo Auto ER Bitola: 0,50 mm² c          |
+| CONDVOLT cabo Auto ER Bitola: 1,50 mm² c          |
+| CONDVOLT cabo Auto ER Bitola: 1,50 mm² c          |
+| Cabo Chainfex - Igus - Hailton                    |
 
 
 ## Test Three -> Provide to GenAI the category/cluster and items, to choose (Which item goes to which cluster?)
+
+### Tabela de Itens e Clusters (Lucas)
+
+| item_d                                               | cluster_items                |
+|------------------------------------------------------|------------------------------|
+| MP MOTOR SERVO B6/2000                               | motor, oleo, rolamento       |
+| MP- ELEMENTO DE VEDAÇÃO T132022360 SB1A              | vedacao, anel, aluminio      |
+| MP - ELEMENTO DE VEDAÇÃO 675040360 SB1A              | vedacao, anel, aluminio      |
+| MP- ELEMENTO DE VEDAÇÃO T560001360                   | vedacao, anel, aluminio      |
+| Valvula Controladora do Eixo Z                       | valvula, direcional, solenoide |
+| Cabo de Ignição NGK                                  | cabo, vde, bwf               |
+| LED 3mm Red PNL MNT                                  | vedacao, anel, aluminio      |
+| CABO FLEX 1KV EPR 4X25MM PT 90G                      | cabo, vde, bwf               |
+| CABO FLEX 1KV EPR 1X25MM VD 90G                      | cabo, vde, bwf               |
+| SP - Válvula Solenoide - 154555                      | valvula, direcional, solenoide |
+| SP RSG 03/05 ZS Abrasivo Cerâmico                    | vedacao, anel, aluminio      |
+| MP - Anel elástico - Eixo de 35 mm                   | anel, ring, oring            |
+| MP - Anel elástico - Furo de 22mm                    | anel, ring, oring            |
+| MP - Gaxeta de Vedação - 22 int X 28 ext             | vedacao, anel, aluminio      |
+
+---
+
+### Tabela GenAI - Resultados de Clusterização
+
+| item_d                                               | cluster_items                |
+|------------------------------------------------------|------------------------------|
+| MP MOTOR SERVO B6/2000                               | motor                        |
+| MP - ELEMENTO DE VEDAÇÃO T132022360 SB1A              | vedacao                      |
+| MP - ELEMENTO DE VEDAÇÃO 675040360 SB1A              | vedacao                      |
+| MP- ELEMENTO DE VEDAÇÃO T560001360                   | vedacao                      |
+| MP - Gaxeta de Vedação - 22 int X 28 ext             | vedacao                      |
+| Valvula Controladora do Eixo Z                       | valvula                      |
+| SP - Válvula Solenoide - 154555                      | valvula                      |
+| Cabo de Ignição NGK                                  | cabo                         |
+| CABO FLEX 1KV EPR 4X25MM PT 90G                      | cabo                         |
+| CABO FLEX 1KV EPR 1X25MM VD 90G                      | cabo                         |
+| SP RSG 03/05 ZS Abrasivo Cerâmico                    | vedacao                      |
+| MP - Anel elástico - Eixo de 35 mm                   | anel                         |
+| MP - Anel elástico - Furo de 22mm                    | anel                         |
+
+---
+
 
 ## Getting Started 📍
 
