@@ -1,4 +1,3 @@
-
 # Using GenAI in Predictive Procuremente - Study Case
 
 ## Testing some models (LLaMA3, LLaMA2 and Mistral) 💻 
