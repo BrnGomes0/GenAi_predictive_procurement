@@ -14,7 +14,6 @@ Agora, reformule as seguintes descrições:
 """
 ~~~
 
-
 ### Using LLaMA3 (Supplier not Bosch) ✅ 
 
 ---
@@ -579,6 +578,50 @@ A maioria dos itens refere-se a cabos elétricos de diferentes tipos e aplicaç�
 | 450.20.00 - Válvula Dosadora 0.003-0.2ml           | Válvula de dosagem líquida           |
 | CAFE SOLUVEL                                       | Café em pó solúvel                   |
 | "TEF3|SERVIÇO SERRALHERIA SERRANORTE"              | Informação sobre serviço de serraria |
+
+## Final Tests 📃 - With memory in LangChain (second way):
+#### First Time:
+| Código / Descrição Original                          | Descrição Simplificada      |
+|------------------------------------------------------|-----------------------------|
+| SP - ANEL VITON 2137                                 | Anel de vedação             |
+| TEF3-P2H400290                                       | Peça hidráulica             |
+| N°. 73/24- EKPT                                      | Número EKPT                 |
+| Calibração Zoller SN 405                             | Calibração de precisão      |
+| CABO AK9/20M                                         | Cabo elétrico               |
+| SP - FILTRO PM-CG-E 495X495X50MM                     | Filtro de ar                |
+| MODULO TAMPA P/ CONECTOR                             | Módulo de conexão           |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml             | Válvula injectora           |
+| CAFE SOLUVEL                                         | Café instantâneo            |
+| TEF3\|SERVIÇO SERRALHERIA SERRANORTE                 | Serviço de serraria         |
+
+#### Second Time:
+
+| Código / Descrição Original                          | Descrição Simplificada    |
+|------------------------------------------------------|---------------------------|
+| SP - ANEL VITON 2137                                 | Anel de vedação           |
+| TEF3-P2H400290                                       | Peça hidráulica           |
+| N°. 73/24- EKPT                                      | Número EKPT               |
+| Calibração Zoller SN 405                             | Calibração de peças       |
+| CABO AK9/20M                                         | Cabo elétrico             |
+| SP - FILTRO PM-CG-E 495X495X50MM                     | Filtro de ar              |
+| MODULO TAMPA P/ CONECTOR                             | Conector modular          |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml             | Válvula de inject.        |
+| CAFE SOLUVEL                                         | Café instantâneo          |
+| TEF3\|SERVIÇO SERRALHERIA SERRANORTE                 | Serviço de serração       |
+
+#### Third Time:
+| Código / Descrição Original                          | Descrição Simplificada    |
+|------------------------------------------------------|---------------------------|
+| SP - ANEL VITON 2137                                 | Anel de vedação           |
+| TEF3-P2H400290                                       | Peça hidráulica           |
+| N°. 73/24- EKPT                                      | Número EKPT               |
+| Calibração Zoller SN 405                             | Calibração de peças       |
+| CABO AK9/20M                                         | Cabo elétrico             |
+| SP - FILTRO PM-CG-E 495X495X50MM                     | Filtro de ar              |
+| MODULO TAMPA P/ CONECTOR                             | Conector modular          |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml             | Válvula de inject.        |
+| CAFE SOLUVEL                                         | Café instantâneo          |
+| TEF3\|SERVIÇO SERRALHERIA SERRANORTE                 | Serviço de serração       |
 
 
 ## Getting Started 📍
