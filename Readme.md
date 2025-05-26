@@ -448,6 +448,136 @@ A maioria dos itens refere-se a cabos elétricos de diferentes tipos e aplicaç�
 
 ---
 
+## Final Tests 📃 - With low temperature (first way):
+### Example One - Default (temperature 0.8)
+#### First Time:
+| Item                                         | Description                         |
+|----------------------------------------------|-------------------------------------|
+| SP - ANEL VITON 2137                         | Anel de Viton                       |
+| TEF3-P2H400290                               | Componente elétrico                |
+| N°. 73/24- EKPT                               | Peça específica                    |
+| Calibração Zoller SN 405                     | Instrumento de medição             |
+| CABO AK9/20M                                 | Fio de cabo                        |
+| SP - FILTRO PM-CG-E 495X495X50MM             | Filtro de ar                       |
+| MODULO TAMPA P/ CONECTOR                     | Conectividade modular              |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml     | Válvula contadora                  |
+| CAFE SOLUVEL                                 | Café em pó solúvel                 |
+| "TEF3\|SERVIÇO SERRALHERIA SERRANORTE"       | Serviço de serraria                |
+
+#### Second Time:
+| Item                                           | Description                                           |
+|------------------------------------------------|-------------------------------------------------------|
+| SP - ANEL VITON 2137                           | Anel Viton de alta pressão                           |
+| TEF3-P2H400290                                 | Componente Teflon para aplicações industriais         |
+| N°. 73/24- EKPT                                 | Equipamento de segurança personalizado               |
+| Calibração Zoller SN 405                       | Calibrador Zoller com série número 405               |
+| CABO AK9/20M                                   | Cabo de comunicação de alta qualidade                |
+| SP - FILTRO PM-CG-E 495X495X50MM               | Filtro industrial de grande porte                    |
+| MODULO TAMPA P/ CONECTOR                       | Módulo de conexão para equipamentos                  |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml       | Válvula contenedora de pequeno volume                |
+| CAFE SOLUVEL                                   | Café solúvel em pó                                   |
+| "TEF3\|SERVIÇO SERRALHERIA SERRANORTE"         | Serviço de serraria e ferramentaria da região Norte  |
+
+#### Third Time:
+| Item                                           | Description                                                             |
+|------------------------------------------------|-------------------------------------------------------------------------|
+| SP - ANEL VITON 2137                           | "Anel de Viton com código 2137"                                        |
+| TEF3-P2H400290                                 | "Peça identificada como TEF3-P2H400290"                                |
+| N°. 73/24- EKPT                                 | "Número de série 73/24 da EKPT"                                        |
+| Calibração Zoller SN 405                       | "Calibração realizada pela Zoller com número de série 405"             |
+| CABO AK9/20M                                   | "Cabo elétrico de 9 metros de comprimento"                             |
+| SP - FILTRO PM-CG-E 495X495X50MM               | "Filtro PM-CG-E com dimensões 495x495x50mm"                            |
+| MODULO TAMPA P/ CONECTOR                       | "Módulo para tampa com conectores"                                     |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml       | "Válvula dosadora com capacidade de 0,003 a 0,2ml"                     |
+| CAFE SOLUVEL                                   | "Solução café solúvel para uso"                                       |
+| "TEF3\|SERVIÇO SERRALHERIA SERRANORTE"         | "Descrição do serviço de serralheria Serranorte relacionado ao item TEF3" |
+
+
+### Example Two - (temperature 0.5)
+#### First Time:
+| Item                                   | Description                                   |
+|---------------------------------------|-----------------------------------------------|
+| SP - ANEL VITON 2137                  | Anel de Viton com identificação               |
+| TEF3-P2H400290                        | Componente Teflonizado P2H400290               |
+| N°. 73/24- EKPT                      | Numeração de referência EKPT                   |
+| Calibração Zoller SN 405              | Calibração realizada pela Zoller, SN 405      |
+| CABO AK9/20M                         | Cabo com comprimento de 20 metros              |
+| SP - FILTRO PM-CG-E 495X495X50MM     | Filtro de ar PM-CG-E com dimensões específicas |
+| MODULO TAMPA P/ CONECTOR              | Módulo de tampa para conexão                    |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml | Válvula dosadora com vazão específica       |
+| CAFE SOLUVEL                         | Café em pó solúvel                              |
+| "TEF3|SERVIÇO SERRALHERIA SERRANORTE" | Informação sobre serviço de serralharia Servanorte |
+
+#### Second Time:
+| Item                                    | Description                                      |
+|----------------------------------------|-------------------------------------------------|
+| SP - ANEL VITON 2137                   | Anel Viton de 2137.                             |
+| TEF3-P2H400290                         | Componente Tef3 de 290.                         |
+| N°. 73/24- EKPT                       | Peça nº 73/24 da EKPT.                          |
+| Calibração Zoller SN 405               | Equipamento de calibração SN 405.               |
+| CABO AK9/20M                          | Cabo elétrico de 20 metros.                      |
+| SP - FILTRO PM-CG-E 495X495X50MM      | Filtro PM-CG-E de 495x495x50mm.                 |
+| MODULO TAMPA P/ CONECTOR               | Modulo para conexão com tampas.                  |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml | Válvula dosadora com vazão controlada.        |
+| CAFE SOLUVEL                          | Café em pó solúvel.                              |
+| "TEF3|SERVIÇO SERRALHERIA SERRANORTE" | Serviço de serraria do norte relacionado ao Tef3. |
+
+#### Third Time:
+| Item                                    | Description                                 |
+|----------------------------------------|---------------------------------------------|
+| SP - ANEL VITON 2137                   | Peça de anel Viton.                         |
+| TEF3-P2H400290                         | Componente técnico de precisão.             |
+| N°. 73/24- EKPT                       | Numeração específica para reparo.           |
+| Calibração Zoller SN 405               | Equipamento de medição calibrado.           |
+| CABO AK9/20M                          | Fio de comunicação.                          |
+| SP - FILTRO PM-CG-E 495X495X50MM      | Filtro com dimensões específicas.            |
+| MODULO TAMPA P/ CONECTOR               | Módulo para conexão.                         |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml | Componente de controle de fluxo.           |
+| CAFE SOLUVEL                          | Solução de café em pó.                       |
+| "TEF3|SERVIÇO SERRALHERIA SERRANORTE" | Informação sobre serviço e localização.     |
+
+### Example Three - (temperature 0.1)
+#### First Time:
+| Item                                    | Description                                      |
+|----------------------------------------|-------------------------------------------------|
+| SP - ANEL VITON 2137                   | Anel Viton com código 2137.                      |
+| TEF3-P2H400290                         | Componente Teflon com código P2H400290.         |
+| N°. 73/24- EKPT                       | Identificador de peça nº 73/24-EKPT.            |
+| Calibração Zoller SN 405               | Calibrador Zoller com número de série 405.      |
+| CABO AK9/20M                          | Cabo elétrico de 9 metros.                        |
+| SP - FILTRO PM-CG-E 495X495X50MM      | Filtro de ar com dimensões 495x495x50 mm.       |
+| MODULO TAMPA P/ CONECTOR               | Módulo de contenção para conectores.             |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml | Válvula de dosagem com vazão entre 0,003 e 0,2 ml. |
+| CAFE SOLUVEL                          | Solução café solúvel.                            |
+| "TEF3|SERVIÇO SERRALHERIA SERRANORTE" | Serviço de serraria da Serranorte para peças TEF3. |
+
+#### Second Time:
+| Item                                    | Description                                      |
+|----------------------------------------|-------------------------------------------------|
+| SP - ANEL VITON 2137                   | Válvula de controle Viton.                       |
+| TEF3-P2H400290                         | Componente electrónico do sistema TEF3.         |
+| N°. 73/24- EKPT                       | Identificador único do item EKPT.                |
+| Calibração Zoller SN 405               | Instrumento de medição de precisão Zoller.      |
+| CABO AK9/20M                          | Fio elétrico com isolamento de PVC.              |
+| SP - FILTRO PM-CG-E 495X495X50MM      | Filtre de ar com tamanho específico.             |
+| MODULO TAMPA P/ CONECTOR               | Conectividade modular para dispositivos eletrônicos. |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml | Válvula contendo solvente de precisão.          |
+| CAFE SOLUVEL                          | Solução líquida para café.                        |
+| "TEF3|SERVIÇO SERRALHERIA SERRANORTE" | Informações sobre serviço de serraria relacionadas ao TEF3. |
+
+#### Third Time:
+| Item                                    | Description                                                  |
+|----------------------------------------|-------------------------------------------------------------|
+| SP - ANEL VITON 2137                   | Anel Viton para engrenagens.                                |
+| TEF3-P2H400290                         | Componente Teflon para sistemas de temperatura elevada.     |
+| N°. 73/24- EKPT                        | Engraxamento Kit para peças mecânicas.                      |
+| Calibração Zoller SN 405               | Equipamento de calibração para precisão.                    |
+| CABO AK9/20M                           | Cabo flexível com comprimento de 20 metros.                 |
+| SP - FILTRO PM-CG-E 495X495X50MM       | Filtro para purificação de fluidos.                         |
+| MODULO TAMPA P/ CONECTOR               | Módulo de contenção para conectores.                        |
+| 450.20.00 - Válvula Dosadora 0.003-0.2ml | Válvula de dosagem para controle de fluxo.                 |
+| CAFE SOLUVEL                           | Café em pó solúvel para preparação.                         |
+| "TEF3|SERVIÇO SERRALHERIA SERRANORTE"  | Serviço de serraria regional com expertise em Teflon.       |
 
 ## Getting Started 📍
 
