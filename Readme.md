@@ -7,7 +7,7 @@
 
 f"""   
 Reescreva a seguinte descrição técnica para torná-la mais clara e legível. A descrição precisa conter o nome do material ou do serviço. Transforme-a em uma frase descritiva bem estruturada em português.
-Agora, reformule as seguintes descrições:
+Agora, reformule as seguintes descrições: 
 ```
 {table_str}
 ```
